@@ -12,4 +12,4 @@ A basic Android app that converts text input into spoken words using the built-i
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yourusername/Text2Speech-App.git
+   https://github.com/Karthikeyan187/TextToSpeechApp.git
