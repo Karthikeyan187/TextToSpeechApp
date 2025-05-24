@@ -1,6 +1,6 @@
 # Text2Speech Android App
 
-A basic Android app that converts text input into spoken words using the built-in TextToSpeech API.
+An Android application that converts text input into spoken words. Built using Java and Andriod Studio.
 
 ## 🧩 Features
 
@@ -8,8 +8,22 @@ A basic Android app that converts text input into spoken words using the built-i
 - Clean and minimal user interface
 - English language support
 
+
+## 🛠 Requirements
+
+* Android Studio
+* Android device or emulator with audio output
+
+
+## 🚀 How to Use
+
+1. Enter your text into the input field.
+2. Tap the **"Speak"** button.
+3. The app will read the text out loud using the device’s TextToSpeech engine.
+
+
 ## 🚀 Getting Started
 
 1. **Clone the repo:**
    ```bash
-   https://github.com/Karthikeyan187/TextToSpeechApp.git
+   git clone https://github.com/Karthikeyan187/TextToSpeechApp.git
