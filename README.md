@@ -24,6 +24,6 @@ An Android application that converts text input into spoken words. Built using J
 
 ## 🚀 Getting Started
 
-1. **Clone the repo:**
+**To Clone the repo:**
    ```bash
    git clone https://github.com/Karthikeyan187/TextToSpeechApp.git
