@@ -1,4 +1,4 @@
-# Text2Speech Android App
+# Text2Speech 
 
 An Android application that converts text input into spoken words. Built using Java and Andriod Studio.
 
